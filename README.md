@@ -2,7 +2,7 @@
 
 - 💪 I am well-versed in the following programming languages and frameworks: Python, C++, HTML, Swift UI, Turtle, Tkinter, Pandas, and JSON.
 
-- 🌱 I continuously expand my knowledge of the computer science field by taking on several coding projects and courses.
+- 🌱 I continuously expand my knowledge of the Software Engineering field by taking on several coding projects and courses.
 
 - 💞️ I’m looking to collaborate on design-related projects or anything SWE-related. 
 
