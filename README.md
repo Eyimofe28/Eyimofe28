@@ -1,6 +1,6 @@
 - 👋 Hey hey hey, I’m **_Eyimofe_**, a fun girl who loves anything design and tech-related. Welcome to my GitHub profile :)
 
-- 💪 I am well-versed in the following programming languages and frameworks: Python, C++, HTML, CSS, JavaScript, Swift UI, Turtle, Tkinter, Pandas, SMTP, Requests, DateTime, MaterialUI, ReactJS, NextJS, Firebase, OpenAI.
+- 💪 I am well-versed in the following programming languages and frameworks: Python, C++, HTML, CSS, JavaScript, Swift UI, Turtle, Tkinter, Pandas, SMTP, Requests, DateTime, Clerk, Stripe, MaterialUI, ReactJS, NextJS, Firebase, OpenAI.
 
 - 🌱 I continuously expand my knowledge of the Software Engineering field by taking on several coding projects and courses.
 
